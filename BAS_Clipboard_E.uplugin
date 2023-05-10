@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1",
+	"FriendlyName": "Clipboard Extension",
+	"Description": "Allows for clipboard interactions with blueprints",
+	"Category": "Blueprint Library Extension",
+	"CreatedBy": "BrokenArm Studios",
+	"CreatedByURL": "https://www.youtube.com/@BrokenArmStudios",
+	"DocsURL": "https://docs.google.com/document/d/1VgavuFsvwgXrxoMUgv288_oQIET8qLJunDhsHzzbNLY/edit?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d13023d310a54712bf737cce21ac0947",
+	"SupportURL": "https://discord.gg/UfYfuFAVae",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "BAS_Clipboard_E",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
